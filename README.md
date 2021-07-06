@@ -2,6 +2,5 @@
 
 https://my-json-server.typicode.com/sunday00/placeholders/ {what I want}
 
-## 
-metaVariables
+## metaVariables
 * foo bar baz
