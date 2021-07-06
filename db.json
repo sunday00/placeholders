@@ -1,17 +1,17 @@
 {
   "metaVariables": [
-    "foo",
-    "bar",
-    "baz",
-    "qux",
-    "quux",
-    "corge",
-    "grault",
-    "garply",
-    "waldo",
-    "fred",
-    "plugh",
-    "xyzzy",
-    "thud"  
+    {"id" : 1, "value" : "foo"},
+    {"id" : 1, "value" : "bar"},
+    {"id" : 1, "value" : "baz"},
+    {"id" : 1, "value" : "qux"},
+    {"id" : 1, "value" : "quux"},
+    {"id" : 1, "value" : "corge"},
+    {"id" : 1, "value" : "grault"},
+    {"id" : 1, "value" : "garply"},
+    {"id" : 1, "value" : "waldo"},
+    {"id" : 1, "value" : "fred"},
+    {"id" : 1, "value" : "plugh"},
+    {"id" : 1, "value" : "xyzzy"},
+    {"id" : 1, "value" : "thud" }
   ]
 }
