@@ -1,15 +1,17 @@
-[
-  "foo",
-  "bar",
-  "baz",
-  "qux",
-  "quux",
-  "corge",
-  "grault",
-  "garply",
-  "waldo",
-  "fred",
-  "plugh",
-  "xyzzy",
-  "thud"
-]
+{
+  "metaVariables": [
+    "foo",
+    "bar",
+    "baz",
+    "qux",
+    "quux",
+    "corge",
+    "grault",
+    "garply",
+    "waldo",
+    "fred",
+    "plugh",
+    "xyzzy",
+    "thud"  
+  ]
+}
